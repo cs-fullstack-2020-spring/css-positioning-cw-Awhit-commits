@@ -1,0 +1,59 @@
+#div1{
+    border: solid pink;
+    text-align: center;
+    color: purple;
+}
+
+#div2{
+    border: solid gray;
+    text-align: center;
+}
+
+#div3{
+    border: solid green;
+    width: 20%;
+    text-align: center;
+    /* margin: 1%;
+    position: relative;
+    right: 1%; */
+    
+}
+#div4{
+    border: solid gray;
+    width: 70%;
+    position: absolute; 
+    bottom:56%;
+    left: 25%;
+    text-align: center;
+    padding: 2%;
+    
+
+
+}
+
+
+
+#div5{
+    border: solid lightskyblue;
+    width: 20%;
+    text-align: center;
+    float: left;
+    margin-top: 1%;
+}
+#div6{
+    border: solid purple;
+    text-align: center;
+    width: 70%;
+    padding: 2%;
+    position: absolute; 
+    bottom:37%;
+    left: 25%;
+    
+}
+#div7{
+    border: solid red;
+    width: 20%;
+    text-align: center;
+    /* float: left; */
+    margin-top: 8%;
+}
