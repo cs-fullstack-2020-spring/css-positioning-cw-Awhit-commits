@@ -1,16 +1,16 @@
 #div1{
-    border: solid pink;
+    border: solid pink 1px;
     text-align: center;
     color: purple;
 }
 
 #div2{
-    border: solid gray;
+    border: solid gray 1px;
     text-align: center;
 }
 
 #div3{
-    border: solid green;
+    border: solid green 1px;
     width: 20%;
     text-align: center;
     /* margin: 1%;
@@ -19,13 +19,14 @@
     
 }
 #div4{
-    border: solid gray;
-    width: 70%;
+    border: solid gray 1px;
+    width: 69.3%;
     position: absolute; 
-    bottom:56%;
+    bottom:57.1%;
     left: 25%;
     text-align: center;
     padding: 2%;
+    margin-left: 1%;
     
 
 
@@ -34,24 +35,25 @@
 
 
 #div5{
-    border: solid lightskyblue;
+    border: solid lightskyblue 1px;
     width: 20%;
     text-align: center;
     float: left;
     margin-top: 1%;
 }
 #div6{
-    border: solid purple;
+    border: solid purple 1px;
     text-align: center;
-    width: 70%;
+    width: 69.3%;
     padding: 2%;
     position: absolute; 
-    bottom:37%;
+    bottom:38.1%;
     left: 25%;
+    margin-left: 1%;
     
 }
 #div7{
-    border: solid red;
+    border: solid red 1px;
     width: 20%;
     text-align: center;
     /* float: left; */
